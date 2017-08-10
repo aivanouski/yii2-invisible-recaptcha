@@ -6,11 +6,11 @@ The preferred way to install this extension is through composer.
 
 - Either run
 
-`php composer.phar require --prefer-dist "szaboolcs/yii2-invisible-recaptcha" "*"`
+`php composer.phar require --prefer-dist "aivanouski/yii2-invisible-recaptcha" "*"`
 
 or add
 
-`"szaboolcs/yii2-invisible-recaptcha" : "*"`
+`"aivanouski/yii2-invisible-recaptcha" : "*"`
 
 to the require section of your application's composer.json file.
 
